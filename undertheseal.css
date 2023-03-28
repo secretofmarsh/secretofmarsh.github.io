@@ -1,0 +1,146 @@
+body{background-image: url("gridbackground.jpg");
+
+
+}
+
+h1{color: white;
+text-align: center;
+font-size: 4vw;
+text-shadow: red 1px 1px 20px;
+	
+}
+
+div#seal{display: flex;
+	
+}
+
+img#seal{
+	width: 13%;
+	margin-top: 0px;
+	padding-left: 10px;
+	
+}
+
+.flame{display: inline; margin: -1%; margin-bottom: calc(-5% + 1vw); padding: -1%; width: 18%;
+
+}
+
+h1#blurbheader{
+	align-items: center;
+	font-size: 2vw;
+	background-color: black;
+}
+
+p#mainblurb{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	color: white;
+	font-weight: bold;
+}
+
+div#evidence{
+	display: flex;
+	justify-content: center;
+}
+
+
+h2#damning{text-align: center; 
+color: white;
+font-size: 40px;
+width: 100%;
+border-top: 7px solid white;
+	
+}
+
+div#evidence1{
+	width: 27%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	border: 5px solid white;
+	background-color: black;
+}
+
+img#seismograph{
+	width: 100%;
+	border: 0px 0px 3px red;}
+	
+p#seistesty{
+	color:white;
+margin-left: 2%;
+margin-right: 2%;
+text-shadow: red 1px 1px 5px;
+font-weight: bold;
+
+}
+
+div#evidence2{
+	width: 27%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	border: 5px solid white;
+	background-color: black;
+
+}
+
+img#dream{
+	width: 100%;
+	border: red 0px 0px 3px;
+}
+
+p#dreamtesty{
+	color: white;
+margin-left: 2%;
+margin-right: 2%;
+text-shadow: red 1px 1px 5px;
+font-weight: bold;
+
+}
+
+div#evidence3{
+	width: 27%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	border: 5px solid white;
+	background-color: black;
+
+}
+
+img#rhettimage {
+	width: 65%;
+	margin-left: 15%;
+}
+
+h3{color: white;
+text-align: center;
+text-shadow: red 1px 1px 5px;
+background-color: rgba(0, 0, 0, 0.3);	
+	
+}
+
+p#testy{color:white;
+margin-left: 2%;
+margin-right: 2%;
+	
+}
+
+h2#yourtheories{
+	text-align: center;
+	color:white;
+	text-shadow: red 1px 1px 5px;
+	background-color: rgba(0,0,0,0.3);
+	font-size: 40px;
+}
+
+p#tellus{
+	color: white;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 35px;
+	text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+  /* Add your CSS styles here for mobile devices */
+}
