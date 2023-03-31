@@ -37,6 +37,24 @@ p#mainblurb{
 	margin-right: 5%;
 	color: white;
 	font-weight: bold;
+	background-color: rgba(0,0,0,0.8);
+	padding: 1%;
+}
+
+p#invite{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	color: red;
+	font-weight: bold;
+	font-size: 30px;
+	background-color: rgba(0,0,0,0.8);
+	padding: 1%;
+	border: solid red 10px;
+}
+
+span#date{
+	text-decoration: underline;
 }
 
 div#evidence{
